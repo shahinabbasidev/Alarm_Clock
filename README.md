@@ -45,5 +45,10 @@ cd Alarm_Clock
 # Just run it — no extra dependencies needed if using winsound (Windows)
 python alarm.py    
 
+🛠️ Tech Stack
 
+Language: Python 3
+GUI: Tkinter (standard library)
+Sound (optional): winsound (Windows built-in) or pygame
+Concurrency: threading (to check time without blocking GUI)
 
